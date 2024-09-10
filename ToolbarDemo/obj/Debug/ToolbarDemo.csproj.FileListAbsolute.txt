@@ -1,0 +1,16 @@
+C:\Projects\ToolbarDemo\ToolbarDemo\bin\Debug\ToolbarDemo.exe.config
+C:\Projects\ToolbarDemo\ToolbarDemo\bin\Debug\ToolbarDemo.exe
+C:\Projects\ToolbarDemo\ToolbarDemo\bin\Debug\ToolbarDemo.pdb
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\ToolbarDemo.csproj.AssemblyReference.cache
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\ToolbarDemo.csproj.SuggestedBindingRedirects.cache
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\MainWindow.g.cs
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\App.g.cs
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\ToolbarDemo_MarkupCompile.cache
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\ToolbarDemo_MarkupCompile.lref
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\MainWindow.baml
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\ToolbarDemo.g.resources
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\ToolbarDemo.Properties.Resources.resources
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\ToolbarDemo.csproj.GenerateResource.cache
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\ToolbarDemo.csproj.CoreCompileInputs.cache
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\ToolbarDemo.exe
+C:\Projects\ToolbarDemo\ToolbarDemo\obj\Debug\ToolbarDemo.pdb
